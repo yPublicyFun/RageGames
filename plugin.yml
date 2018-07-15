@@ -1,0 +1,10 @@
+name: RageGames
+api: 3.0.4
+version: 1.0.1
+main: RG\Main
+author: xZeroStorm
+commands:
+        rg:
+            description: "RageGames Commands"
+        leave:
+            description: "Verlässt RageGames Runde"
